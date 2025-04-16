@@ -6,5 +6,5 @@ public class Chc extends Pa,Pb {
 		// TODO Auto-generated method stub
 
 	}
-
+}
 

@@ -17,6 +17,7 @@ public class Instancemethod {
 	public  void print(String a)
 	{
 	System.out.println(a);
+	System.out.println("maven");
 	}
 	
 
