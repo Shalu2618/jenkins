@@ -1,6 +1,6 @@
 package multipleinherit;
 
-public class Sample implements Interface1,Interface2 {
+public class Sample implements Interface1,Interface2 {  //class
 	public void print()
 	{
 		System.out.println("interface1");
